@@ -16,11 +16,11 @@ I’m passionate about building intelligent systems that can **see, learn, and m
 
 ---
 
-### 🧠 Upcoming Project
-**Reinforcement Learning Environment for Intelligent Decision-Making** *(In Progress)*  
-- 🕹️ Developing RL agents capable of adaptive control and environment interaction  
-- 💻 Using **Gymnasium**, **PyTorch**, and **Stable-Baselines3**  
-- 🎯 Focus: Balancing exploration vs exploitation for optimized performance
+### 🔄 Deep RL with TensorFlow & Keras (Personal Project)  
+**[Reinforcement-Learning-Using-Tensorflow-Keras](https://github.com/YounusVersiani/Reinforcement-Learning-Using-Tensorflow-Keras)**  
+- 🕹️ Implemented **Deep Q-Learning (DQN)** to solve **CartPole-v1** in **Gymnasium** using **TensorFlow/Keras**  
+- 📚 Includes **replay buffer**, **ε-greedy policy**, **target network**, **training & evaluation loops**  
+- 🎯 This is my **hands-on foundation project in RL** — a stepping stone toward more advanced environments and algorithms
 
 ---
 
