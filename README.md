@@ -16,11 +16,11 @@ I’m passionate about building intelligent systems that can **see, learn, and m
 
 ---
 
-### 🔄 Deep RL with TensorFlow & Keras (Personal Project)  
+### 🧠 Deep Q-Learning with Keras-RL2 on CartPole-v1  
 **[Reinforcement-Learning-Using-Tensorflow-Keras](https://github.com/YounusVersiani/Reinforcement-Learning-Using-Tensorflow-Keras)**  
-- 🕹️ Implemented **Deep Q-Learning (DQN)** to solve **CartPole-v1** in **Gymnasium** using **TensorFlow/Keras**  
-- 📚 Includes **replay buffer**, **ε-greedy policy**, **target network**, **training & evaluation loops**  
-- 🎯 This is my **hands-on foundation project in RL** — a stepping stone toward more advanced environments and algorithms
+- 🤖 Trained a **Deep Q-Network (DQN)** agent using **Keras-RL2**, **TensorFlow 2.10**, and **Gymnasium** to master the **CartPole-v1** balancing task  
+- ⚙️ Built a **custom Gymnasium wrapper** and **feedforward neural network** (two 24-neuron layers) for Q-value prediction and adaptive control  
+- 🎯 Implemented **Boltzmann policy**, experience replay, and model saving/loading — achieving stable learning and real-time performance visualization
 
 ---
 
