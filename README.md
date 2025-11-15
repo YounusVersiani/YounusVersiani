@@ -1,10 +1,12 @@
-# 🔗 Hellooo, I'm Younus, an AI/ML geek.
+# Hellooo, I'm Younus, an AI/ML geek.
+
+---
 
 BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt. Open to new opportunities to collaborate and work on meaningful projects.
 
 ---
 
-## 📚 I'm Currently Learning:
+**📚 I'm Currently Learning:**
 
 - Computer Vision
 - Natural Language Processing
@@ -13,7 +15,7 @@ BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt
 
 ---
 
-## 🔗 Languages:
+**Languages:**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -24,7 +26,7 @@ BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt
 
 ---
 
-## 🔗 Utilities:
+**Utilities:**
 
 ![PyCharm](https://img.shields.io/badge/PyCharm-000000?style=for-the-badge&logo=pycharm&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -35,7 +37,7 @@ BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt
 
 ---
 
-## 🔗 Younus Versiani's GitHub Stats
+**Younus Versiani's GitHub Stats**
 
 ![](https://github-readme-stats.vercel.app/api?username=YounusVersiani&show_icons=true&theme=tokyonight&hide_border=true&count_private=true)
 
@@ -43,12 +45,12 @@ BEng. Autonomous Vehicle Engineering student at Technische Hochschule Ingolstadt
 
 ---
 
-## 🔗 Most Used Languages
+**Most Used Languages**
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=YounusVersiani&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
-## 🔗 Contact:
+**Contact:**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/younusversiani)
